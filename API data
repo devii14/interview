@@ -1,0 +1,26 @@
+[{
+"name": "Paul Wesley",
+"age": 20,
+"dob": "20-10-2001",
+"firstName": "Paul",
+"lastName": "Wesley",
+"more": {
+"address_line1": "32",
+"address_line2": "Down street",
+"address_line3": "Mystic falls",
+"phone": "8902666383"
+}
+},
+{
+"name": "Klaus Michaelson",
+"age": 21,
+"dob": "2-1-2000",
+"firstName": "Klaus",
+"lastName": "Michaelson",
+"more": {
+"address_line1": "23",
+"address_line2": st john's street
+"address_line3": "LA",
+"phone": "4556789902"
+}
+}]
